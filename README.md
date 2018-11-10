@@ -9,8 +9,36 @@ Elm Workshop exercises
 
 ## Setup:
 * [Install Elm](https://guide.elm-lang.org/install.html)
-* Checkout this workshop project 
-* Run with `elm reactor`
+* Checkout this workshop project `git clone https://github.com/jiwhiz/elm-workshop-beginner.git`
+* Run with `elm reactor` under elm-workshop-beginner directory
+
+## Ellie URL for Exercises
+
+* Exercise I 1 : https://ellie-app.com/3RjMVKZ8N4ba1
+
+* Exercise I 2 : https://ellie-app.com/3RjM67VGrxJa1
+
+* Exercise I 3 : https://ellie-app.com/3RjNgdpzkMDa1
+
+* Exercise II 1 : https://ellie-app.com/3RjNSzvhRCva1
+
+* Exercise II 2 : https://ellie-app.com/3RjPkTTG8YVa1
+
+* Exercise II 3 : https://ellie-app.com/3RjPJhJXLVba1
+
+* Exercise III 1 : https://ellie-app.com/3RjQ94PCdwwa1
+
+* Exercise III 2 :  https://ellie-app.com/3RjQsSjKSvPa1
+
+* Exercise III 3 : https://ellie-app.com/3RjQPPvfkYza1
+
+* Exercise IV 2 : https://ellie-app.com/3RjTc8pXGVVa1
+
+* Exercise IV 3 : https://ellie-app.com/3RjTFwYz2xja1
+
+* Exercise IV 4 : https://ellie-app.com/3RjV3yZdZ34a1
+
+* Exercise IV 5 : https://ellie-app.com/3RjVpyFYxvYa1
 
 ## Homeworks
 * [Elm Official Guide](https://guide.elm-lang.org/)
