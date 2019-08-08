@@ -38,7 +38,7 @@ Elm Workshop exercises
 
 * Exercise IV 4 : https://ellie-app.com/3RjV3yZdZ34a1
 
-* Exercise IV 5 : https://ellie-app.com/3RjVpyFYxvYa1
+* Exercise IV 5 : https://ellie-app.com/6jDc7cYMYcna1
 
 ## Homeworks
 * [Elm Official Guide](https://guide.elm-lang.org/)
